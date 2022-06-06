@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Weather app" height="80" title="Weather App" src="src/img/Weather App.gif" />
+  <img alt="Weather app" height="200" title="Weather App" src="src/img/Weather App.gif" />
 </h1>
 
 ## 💻 Projeto
